@@ -1,9 +1,11 @@
-## Applications of Deep Learning for Sentiment Classification
-
-### General info
-Building Applications of Deep Learning for Sentiment Classification using ...
+# Applications of Deep Learning for Sentiment Classification
 	
-### Technologies
-The Project is created with:
+## Dependencies
 * Java version: 8
 * Apache Maven: 3.3.0
+
+## Technology stack
+* IntelliJ IDEA Ultimate
+
+## Features
+* build plugins: maven-compiler-plugin, maven-assembly-plugin
